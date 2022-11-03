@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+#main {
+    margin: 2em 0.5em;
+    background-color: #eee;
+}
+#main h1 {
+    font-size: 2.5em;
+}
+.title {
+    text-align: center;
+    padding-top: 2em ;
+}
+#img-div{
+    width:100%;
+    text-align: center;
+}
+figure{
+    background-color: #fff;
+    margin: 1em;
+}
+#image{
+    max-width: 100%;
+    width: fit-content;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#tribute-info{
+    width: 50vw;
+    margin: 2em auto;
+}
+#tribute-info h3{
+    text-align: center;
+    margin-bottom: 2em;
+}
+ul li{
+    margin: 1.5em auto;
+    line-height: 1.5;
+}
+main > h3{
+    text-align: center;
+    height: 3em;
+}
